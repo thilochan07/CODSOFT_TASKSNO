@@ -22,8 +22,7 @@ Welcome to my repository for the **CodSoft Python Programming Internship**! This
 ### Execution Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/CODSOFT_TASKSNO.git
-   cd CODSOFT_TASKSNO
+   git clone https://github.com/thilochan07/CODSOFT_TASKSNO.git
    ```
 2. Run any task file directly using Python:
    ```bash
